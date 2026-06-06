@@ -22,6 +22,8 @@ My interests include:
 - 📊 Data Science & Analytics
 - 🌐 AI-powered Web Applications
 - ⚡ Deep Learning & Computer Vision
+- 🏆 Data Structures & Algorithms (DSA)
+- 💡 Competitive Programming & Problem Solving
 
 Currently exploring advanced Generative AI systems and building end-to-end AI applications.
 
