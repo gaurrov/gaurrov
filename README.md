@@ -63,4 +63,4 @@ Currently exploring advanced Generative AI systems and building end-to-end AI ap
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gaurrov?theme=dark&font=Viga&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gaurrov?theme=dark&font=Stylish&ext=heatmap)
