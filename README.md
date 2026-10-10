@@ -5,7 +5,7 @@
 
 🎓 B.Tech Artificial Intelligence & Machine Learning @ St. Joseph's College of Engineering  
 📍 Chennai, India  
-🚀 Passionate about AI, NLP, Machine Learning, and Generative AI
+🚀 Passionate about ML, Agentic and Generative AI
 
 ---
 
